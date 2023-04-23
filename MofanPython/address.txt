@@ -1,0 +1,5 @@
+Github：https://github.com/MorvanZhou/PyTorch-Tutorial
+
+Web：https://mofanpy.com/support/
+
+YT：https://www.youtube.com/c/%E5%91%A8%E8%8E%AB%E7%83%A6

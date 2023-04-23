@@ -1,0 +1,5 @@
+Youtube
+https://youtu.be/c36lUUr864M
+
+Git-Hub
+https://github.com/python-engineer/pytorchTutorial

@@ -1,0 +1,5 @@
+Youtube
+https://www.youtube.com/watch?v=LwM7xabuiIc
+
+Git-hub
+https://github.com/python-engineer/tensorflow-course
